@@ -32,8 +32,6 @@ Which powertrain and transmission combinations contribute most to emissions?
 - A small set of **fuel types** accounts for the vast majority of total CO₂.
 - Using AI splits in the **Decomposition Tree**, the **lowest average CO₂** within **HEV** is found by selecting *Low value* across remaining attributes after choosing Powertrain = HEV.
 
-*(Replace with your own specific callouts if you have exact values in your report.)*
-
 ## 🧱 Data & Fields
 - **Target (Analyze):** `CO2 emission`
 - **Explainers (Explain by):** `Engine Size (cm3)`, `Powertrain`, `Transmission`, `Fuel Type`
