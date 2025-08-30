@@ -48,6 +48,8 @@ Which powertrain and transmission combinations contribute most to emissions?
 - **Visual analytics:** Scatter (Avg CO₂), categorical comparisons (bar/pie)  
 - **Storytelling:** From drivers → segments → drilldown to lowest-emission configs
 
+**Source:** Microsoft Power BI Data Analyst (Coursera)
+
 ---
 
 **Author:** James Miller  
